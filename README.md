@@ -40,7 +40,7 @@ making sure that the version installed is up-to-date.
 
 To ensure that all the necessary packages are properly installed, in the PyCharm terminal, type `pip install -r requirements.txt`, then run it.
 
-## IDE Startup
+## IDE Startup and running
 
 When use PyCharm: In PyCharm, once the necessary packages are installed and the environment has been initialized, press `CTRL+ALT+S`, select the project,
 then `Python Interpreter`. From there, click `Add Interpreter`, `Add Local Interpreter`, `Conda Environment`, `Use Existing Environment`, and select 
