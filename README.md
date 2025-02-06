@@ -13,7 +13,7 @@ deep learning tools, the process of identifying EIC plots as true or false can b
 
 Several other programs are necessary to install pyEVA. They are listed below:
 1. [Anaconda](https://www.anaconda.com/)
-2. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) (Community or Professional editions both work)
+2. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) (Community or Professional editions both work) or VS Code
 3. R and [R Studio](https://posit.co/download/rstudio-desktop/)
 
 ## Set up Environment
