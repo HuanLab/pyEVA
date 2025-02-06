@@ -40,11 +40,15 @@ making sure that the version installed is up-to-date.
 
 To ensure that all the necessary packages are properly installed, in the PyCharm terminal, type `pip install -r requirements.txt`, then run it.
 
-## PyCharm Startup
+## IDE Startup
 
-In PyCharm, once the necessary packages are installed and the environment has been initialized, press `CTRL+ALT+S`, select the project,
+When use PyCharm: In PyCharm, once the necessary packages are installed and the environment has been initialized, press `CTRL+ALT+S`, select the project,
 then `Python Interpreter`. From there, click `Add Interpreter`, `Add Local Interpreter`, `Conda Environment`, `Use Existing Environment`, and select 
 `pyEVA`. In the terminal there should be a (pyEVA) beside your project location. This indicates that the system is ready to run pyEVA.
+
+When use VS Code: 1. Go to Command Palette (Ctrl + Shift + P), click Python: Select Interpreter, Create Virtual Environment, Venv, and select Python 3.7.9 from the drop-down
+list. 2. In the terminal, run pip install -r requirements.txt. 3. Open RStudio and install R packages listed in README.md. 4. Place the sample data (feature table and .mzXML file) into the Input folder
+9. Run the code by executing python main.py in the terminal. 5 Output files will be in the Output folder
 
 ## Running the Program 
 
