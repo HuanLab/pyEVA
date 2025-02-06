@@ -2,7 +2,7 @@ name: pyEVA
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
+  - python=3.7.9
   - pip
   - pip:
       - rpy2
